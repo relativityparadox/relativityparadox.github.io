@@ -1,1 +1,13 @@
+body {
+  font-family: "Inter", Arial, sans-serif;
+}
 
+#header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  opacity: 0.5;
+  backdrop-filter: blur(3px);
+}
