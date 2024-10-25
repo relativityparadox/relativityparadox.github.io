@@ -7,7 +7,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #fff;
+  background-color: #299;
   opacity: 0.5;
   backdrop-filter: blur(3px);
 }
